@@ -1,4 +1,4 @@
-const socket = io("https://dwaipayan-sharma.github.io/dumbchat.github.io");
+const socket = io("https://dwaipayan-sharma.github.io/FoodBookChat.github.io/");
 const form = document.getElementById('send-container')
 const messageInput = document.getElementById('messageInp')
 const messageContainer = document.querySelector('.container')
