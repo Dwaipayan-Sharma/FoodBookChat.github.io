@@ -1,4 +1,4 @@
-const socket = io("https://dwaipayan-sharma.github.io/FoodBookChat.github.io/");
+const socket = io("https://git.heroku.com/rudrasharma.git");
 const form = document.getElementById('send-container')
 const messageInput = document.getElementById('messageInp')
 const messageContainer = document.querySelector('.container')
